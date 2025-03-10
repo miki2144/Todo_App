@@ -22,6 +22,7 @@ dd, view, and delete tasks.
 
 2. Navigate to the project directory:
    ```bash![todo 1](https://github.com/user-attachments/assets/e810867d-1ad3-4a78-96a5-6a3ab53f0555)
+![todo 1](https://github.com/user-attachments/assets/ef288ad5-93b9-4d2f-96f5-fd22d794b7f9)
 
    cd Todo_App
    ```
